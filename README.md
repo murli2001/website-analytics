@@ -382,19 +382,6 @@ Set these environment variables in your hosting platform:
 3. Set environment variables
 4. Deploy using Git or Heroku CLI
 
-### Deployment URL
-
-Update this section with your actual deployment URL after deploying:
-
-```
-https://your-app-name.railway.app
-```
-
-or
-
-```
-https://your-app-name.onrender.com
-```
 
 ## Architecture Decisions
 
@@ -460,4 +447,5 @@ For issues, questions, or contributions, please open an issue on the GitHub repo
 ---
 
 **Website Analytics API - Spring Boot Implementation**
+
 
